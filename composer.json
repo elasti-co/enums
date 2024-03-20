@@ -1,0 +1,22 @@
+{
+    "name": "elasti-co/enums",
+    "description": "Enums helper",
+    "type": "library",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": ">=10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ElastiCo\\Enums\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem VIlman",
+            "email": "artem@elasti.co"
+        }
+    ],
+    "minimum-stability": "dev"
+}
