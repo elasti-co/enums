@@ -18,5 +18,5 @@
             "email": "artem@elasti.co"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "beta"
 }
