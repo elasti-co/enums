@@ -1,6 +1,6 @@
 <?php
 
-namespace ElastiCo\Enums\Enums;
+namespace ElastiCo\Enums\Traits;
 
 
 use Illuminate\Support\Str;
